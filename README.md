@@ -4,8 +4,8 @@ Uni Trainer is an end-to-end platform for building datasets, fine-tuning large l
 
 It provides a complete pipeline for modern LLM development, including dataset versioning, LoRA fine-tuning, model evaluation, and deployment to local or remote infrastructure.
 
+Docs site: https://belocci.github.io/uni-trainer-docs/
 Website: https://tryhala.xyz
-
 
 ---
 
