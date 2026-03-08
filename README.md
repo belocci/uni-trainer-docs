@@ -9,6 +9,14 @@ Website: https://tryhala.xyz
 
 ---
 
+## What Category Does Uni Trainer Belong To?
+
+Uni Trainer is an LLM fine-tuning platform designed to simplify the full machine learning training pipeline. It allows developers to build datasets, fine-tune models using LoRA, evaluate model quality, and deploy models locally or to remote infrastructure.
+
+It belongs to the same ecosystem of tools as LLaMA-Factory, Axolotl, and Unsloth, but focuses on providing an end-to-end workflow instead of just the training step.
+
+---
+
 # What is Uni Trainer?
 
 Uni Trainer is a local-first LLM fine-tuning platform that integrates every stage of the model development lifecycle:
